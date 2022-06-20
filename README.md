@@ -1,0 +1,23 @@
+- 👋 Hi, I’m @radarmees
+- 
+- 👀 I’m interested in FPGA programming, mainly VHDL
+- 
+- 🌱 I’m currently learning how to get running with Xilinx Zynq boards. 
+- My good old favourite CMOD-S6 is no longer available and Xilinx ISE suite does not run on any of my computers anymore.
+- Even the next CMOD-A7 requires Vivado.
+- 
+- So far I am playing tennis in the darkness.
+- The transition from experienced FPGA programmer with perfect feel-good zone to a complete idiot took less than 20 minutes.
+- 
+- We have this nice saying:
+- 
+- Theory is, if something should work, but does not do.
+- Practice is, if something works, and nobody knows, why.
+- We have combined Theory and Practice:
+- Nothing works and nobody knows, why.....
+- 
+- 💞️ I’m looking to collaborate on any VHDL project running with Zynq boards. 
+- Any projects using the combination Vivado-Vitis-Arty boards is on the schedule.
+- 
+- 📫 How to reach me: merkelharald@yahoo.ee
+
